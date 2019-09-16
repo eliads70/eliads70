@@ -1,0 +1,97 @@
+
+body
+{
+text-align: center;
+} 
+.title{ 
+    text-align:center; 
+    width: 249px;
+    background-color:rgb(39, 56, 211); 
+    border: solid  1px; 
+    } 
+
+    input[type="button"] 
+    { 
+    background-color:rgb(39, 56, 211); 
+    color: rgb(255, 255, 255); 
+    border: solid  1px; 
+    width:100% 
+    } 
+
+    input[type="text"] {
+        background-color: white;
+        border: solid black 2px;
+        width: 163px;
+        text-align: center;
+        height: 50px;
+        position: relative;
+        bottom: 24px;
+        left: 21px;
+    }
+   
+    input#cler {
+        background-color: #fffffe;
+        height: 40px;
+        width: 40px;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        position: relative;
+        top: 30px;
+        right: 84px;
+        color: black;
+    }
+    .border
+    {
+        background-color:red;
+            width: 245px;
+            height: 300px;
+    }
+   
+    .cont {
+        margin-top: 90px;
+        margin-left: 755px;
+        border: solid black 2px;
+        width: 249px;
+    }
+    table {
+        position: relative;
+        display: inline-block;
+    }
+
+    .title {
+        position: relative;
+        background-color: floralwhite;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        bottom: 337px;
+        right: 3px;
+    }
+    .foot {
+        background-color: floralwhite;
+        border-bottom-left-radius: 27px;
+        border-bottom-right-radius: 27.5px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        text-align: center;
+        width: 249px;
+        color: green;
+        border: solid black 2px;
+        position: relative;
+        top: 32px;
+        right: 3px;
+    }
+    .head {
+        bottom: 300px;
+        position: relative;
+        text-shadow: 1px -1px 7px black;
+    }
+    table.second {
+        position: relative;
+        top: 28px;
+        background-color: black;
+        font-size: 23px;
+    }
