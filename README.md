@@ -1,2 +1,2 @@
-# eliads70
+# pokemon-calc
 junnior
